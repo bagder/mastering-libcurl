@@ -18,5 +18,7 @@ build warning free against a modern libcurl on a modern system.
 
 ## Index
 
-Slide 50 - [global.c](global.c)
-Slide 51 - [easy-init.c](easy-init.c)
+[ Slide # | link |
+|----|----------------------------|
+| 50 | [global.c](global.c)       |
+| 51 | [easy-init.c](easy-init.c) |
