@@ -23,3 +23,4 @@ build warning free against a modern libcurl on a modern system.
 | 50      | [global.c](global.c)           |
 | 51      | [easy-init.c](easy-init.c)     |
 | 54      | [easy-setopt.c](easy-setopt.c) |
+| 55      | [easy-perform.c](easy-perform.c) |
