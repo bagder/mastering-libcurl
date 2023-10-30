@@ -26,3 +26,6 @@ build warning free against a modern libcurl on a modern system.
 | 55      | [easy-perform.c](easy-perform.c)     |
 | 58      | [write-callback.c](write-callback.c) |
 
+## License
+
+All examples are (C) Daniel Stenberg, licensed to use under [MIT)(LICENSE].
