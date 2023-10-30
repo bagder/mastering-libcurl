@@ -18,9 +18,11 @@ build warning free against a modern libcurl on a modern system.
 
 ## Index
 
-| Slide # | link                           |
-|---------|--------------------------------|
-| 50      | [global.c](global.c)           |
-| 51      | [easy-init.c](easy-init.c)     |
-| 54      | [easy-setopt.c](easy-setopt.c) |
-| 55      | [easy-perform.c](easy-perform.c) |
+| Slide # | link                                 |
+|---------|--------------------------------------|
+| 50      | [global.c](global.c)                 |
+| 51      | [easy-init.c](easy-init.c)           |
+| 54      | [easy-setopt.c](easy-setopt.c)       |
+| 55      | [easy-perform.c](easy-perform.c)     |
+| 58      | [write-callback.c](write-callback.c) |
+
