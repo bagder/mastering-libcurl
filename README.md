@@ -28,6 +28,7 @@ build warning free against a modern libcurl on a modern system.
 | 63      | [multi.c](multi.c)                   |
 | 67      | [debug-callback.c](debug-callback.c) |
 | 68      | [global-trace.c](global-trace.c)     |
+| 69      | [xfer-id.c](xfer-id.c)               |
 
 ## License
 

@@ -5,7 +5,8 @@ ALL = global					\
  write-callback					\
  multi \
  debug-callback \
- global-trace
+ global-trace \
+ xfer-id
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
