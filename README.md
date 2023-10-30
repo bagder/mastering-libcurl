@@ -28,4 +28,4 @@ build warning free against a modern libcurl on a modern system.
 
 ## License
 
-All examples are (C) Daniel Stenberg, licensed to use under [MIT)(LICENSE].
+All examples are (C) Daniel Stenberg, licensed to use under [MIT](LICENSE).
