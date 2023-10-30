@@ -1,8 +1,9 @@
-ALL = global \
- easy-init \
-easy-setopt \
-easy-perform \
-write-callback
+ALL = global					\
+ easy-init					\
+ easy-setopt					\
+ easy-perform					\
+ write-callback					\
+ multi
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c

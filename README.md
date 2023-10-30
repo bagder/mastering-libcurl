@@ -25,6 +25,7 @@ build warning free against a modern libcurl on a modern system.
 | 54      | [easy-setopt.c](easy-setopt.c)       |
 | 55      | [easy-perform.c](easy-perform.c)     |
 | 58      | [write-callback.c](write-callback.c) |
+| 63      | [multi.c](multi.c)                   |
 
 ## License
 
