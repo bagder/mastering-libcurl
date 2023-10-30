@@ -4,7 +4,8 @@ ALL = global					\
  easy-perform					\
  write-callback					\
  multi \
- debug-callback
+ debug-callback \
+ global-trace
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
