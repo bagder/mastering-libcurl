@@ -1,4 +1,4 @@
-ALL = global easy-init
+ALL = global easy-init easy-setopt
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
