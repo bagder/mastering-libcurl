@@ -30,6 +30,7 @@ build warning free against a modern libcurl on a modern system.
 | 68      | [global-trace.c](global-trace.c)     |
 | 69      | [xfer-id.c](xfer-id.c)               |
 | 70      | [version.c](version.c)               |
+| 81      | [read-callback.c](read-callback.c)   |
 
 ## License
 
