@@ -1,11 +1,13 @@
-ALL = global					\
+ALL =						\
+ debug-callback					\
  easy-init					\
- easy-setopt					\
  easy-perform					\
+ easy-setopt					\
+ global						\
+ global-trace					\
+ multi						\
+ version					\
  write-callback					\
- multi \
- debug-callback \
- global-trace \
  xfer-id
 
 CFLAGS=-pedantic -Wall
