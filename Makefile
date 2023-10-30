@@ -3,7 +3,8 @@ ALL = global					\
  easy-setopt					\
  easy-perform					\
  write-callback					\
- multi
+ multi \
+ debug-callback
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
