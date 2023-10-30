@@ -15,3 +15,8 @@ from, mimic and copy and paste from.
 
 The examples present here might be modified slightly to make sure they
 build warning free against a modern libcurl on a modern system.
+
+## Index
+
+Slide 50 - [global.c](global.c)
+Slide 51 - [easy-init.c](easy-init.c)
