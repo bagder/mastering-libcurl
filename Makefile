@@ -9,7 +9,8 @@ ALL =						\
  version					\
  write-callback					\
  xfer-id \
- read-callback
+ read-callback \
+ compress
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
