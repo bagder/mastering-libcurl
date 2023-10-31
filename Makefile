@@ -12,7 +12,8 @@ ALL =						\
  read-callback \
  compress \
  url-set \
- url-set-parts
+ url-set-parts \
+ url-get-parts
 
 
 CFLAGS=-pedantic -Wall
