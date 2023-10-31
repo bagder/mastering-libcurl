@@ -14,7 +14,8 @@ ALL =						\
  url-set \
  url-set-parts \
  url-get-parts \
- redirect
+ redirect \
+ url-encode
 
 
 CFLAGS=-pedantic -Wall
