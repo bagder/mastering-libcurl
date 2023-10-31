@@ -10,7 +10,8 @@ ALL =						\
  write-callback					\
  xfer-id \
  read-callback \
- compress
+ compress \
+ url-set
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
