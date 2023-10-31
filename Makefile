@@ -11,7 +11,9 @@ ALL =						\
  xfer-id \
  read-callback \
  compress \
- url-set
+ url-set \
+ url-set-parts
+
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
