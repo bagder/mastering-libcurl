@@ -13,7 +13,8 @@ ALL =						\
  compress \
  url-set \
  url-set-parts \
- url-get-parts
+ url-get-parts \
+ redirect
 
 
 CFLAGS=-pedantic -Wall

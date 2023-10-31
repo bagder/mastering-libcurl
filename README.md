@@ -35,6 +35,7 @@ build warning free against a modern libcurl on a modern system.
 | 138     | [url-set.c](url-set.c)               |
 | 139     | [url-set-parts.c](url-set-parts.c)   |
 | 140     | [url-get-parts.c](url-get-parts.c)   |
+| 141     | [redirect.c](redirect.c)             |
 
 ## License
 
