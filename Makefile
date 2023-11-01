@@ -20,7 +20,8 @@ ALL =						\
  punycode \
  dashdash \
  dns-servers \
- resolve
+ resolve \
+ connect-to
 
 
 CFLAGS=-pedantic -Wall
