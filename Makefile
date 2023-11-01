@@ -24,7 +24,8 @@ ALL =						\
  connect-to \
  interface \
  localport \
- keepalive
+ keepalive \
+ lowspeed
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c

@@ -38,6 +38,7 @@ build warning free against a modern libcurl on a modern system.
 | 93      | [interface.c](interface.c)           |
 | 94      | [localport.c](localport.c)           |
 | 95      | [keepalive.c](keepalive.c)           |
+| 97      | [lowspeed.c](lowspeed.c)             |
 | 106     | [dashdash.c](dashdash.c)             |
 | 138     | [url-set.c](url-set.c)               |
 | 139     | [url-set-parts.c](url-set-parts.c)   |
