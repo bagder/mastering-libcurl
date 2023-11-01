@@ -37,6 +37,7 @@ build warning free against a modern libcurl on a modern system.
 | 92      | [dns-servers.c](dns-servers.c)       |
 | 93      | [interface.c](interface.c)           |
 | 94      | [localport.c](localport.c)           |
+| 95      | [keepalive.c](keepalive.c)           |
 | 106     | [dashdash.c](dashdash.c)             |
 | 138     | [url-set.c](url-set.c)               |
 | 139     | [url-set-parts.c](url-set-parts.c)   |

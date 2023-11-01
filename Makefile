@@ -23,8 +23,8 @@ ALL =						\
  resolve \
  connect-to \
  interface \
- localport
-
+ localport \
+ keepalive
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
