@@ -49,6 +49,8 @@ build warning free against a modern libcurl on a modern system.
 | 105     | getinfo.c                            |
 | 108     | [dashdash.c](dashdash.c)             |
 | 113     | [share-cookies.c](share-cookies.c)   |
+| 126     | [proxy.c](proxy.c)                   |
+| 126     | [proxy-scheme.c](proxy-scheme.c)     |
 | 143     | [url-set.c](url-set.c)               |
 | 144     | [url-set-parts.c](url-set-parts.c)   |
 | 145     | [url-get-parts.c](url-get-parts.c)   |

@@ -1,32 +1,34 @@
 ALL =						\
+ compress					\
+ connect-to					\
+ dashdash					\
  debug-callback					\
+ dns-servers					\
  easy-init					\
  easy-perform					\
  easy-setopt					\
  global						\
  global-trace					\
+ idn						\
+ interface					\
+ keepalive					\
+ localport					\
+ lowspeed					\
  multi						\
- version					\
- write-callback					\
- xfer-id					\
+ proxy						\
+ proxy-scheme					\
+ punycode					\
  read-callback					\
- compress					\
+ redirect					\
+ resolve					\
+ share-cookies					\
+ url-encode					\
+ url-get-parts					\
  url-set					\
  url-set-parts					\
- url-get-parts					\
- redirect					\
- url-encode					\
- idn						\
- punycode \
- dashdash \
- dns-servers \
- resolve \
- connect-to \
- interface \
- localport \
- keepalive \
- lowspeed \
- share-cookies
+ version					\
+ write-callback					\
+ xfer-id
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
