@@ -21,7 +21,8 @@ ALL =						\
  dashdash \
  dns-servers \
  resolve \
- connect-to
+ connect-to \
+ interface
 
 
 CFLAGS=-pedantic -Wall
