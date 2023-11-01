@@ -37,6 +37,8 @@ build warning free against a modern libcurl on a modern system.
 | 140     | [url-get-parts.c](url-get-parts.c)   |
 | 141     | [redirect.c](redirect.c)             |
 | 142     | [url-encode.c](url-encode.c)         |
+| 143     | [idn.c](idn.c)                       |
+| 143     | [punycode.c](punycode.c)             |
 
 ## License
 

@@ -8,14 +8,16 @@ ALL =						\
  multi						\
  version					\
  write-callback					\
- xfer-id \
- read-callback \
- compress \
- url-set \
- url-set-parts \
- url-get-parts \
- redirect \
- url-encode
+ xfer-id					\
+ read-callback					\
+ compress					\
+ url-set					\
+ url-set-parts					\
+ url-get-parts					\
+ redirect					\
+ url-encode					\
+ idn						\
+ punycode
 
 
 CFLAGS=-pedantic -Wall
