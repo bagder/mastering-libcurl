@@ -22,7 +22,8 @@ ALL =						\
  dns-servers \
  resolve \
  connect-to \
- interface
+ interface \
+ localport
 
 
 CFLAGS=-pedantic -Wall
