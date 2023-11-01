@@ -17,7 +17,8 @@ ALL =						\
  redirect					\
  url-encode					\
  idn						\
- punycode
+ punycode \
+ dashdash
 
 
 CFLAGS=-pedantic -Wall
