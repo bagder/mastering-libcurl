@@ -25,7 +25,8 @@ ALL =						\
  interface \
  localport \
  keepalive \
- lowspeed
+ lowspeed \
+ share-cookies
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c

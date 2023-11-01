@@ -42,6 +42,7 @@ build warning free against a modern libcurl on a modern system.
 | 95      | [keepalive.c](keepalive.c)           |
 | 97      | [lowspeed.c](lowspeed.c)             |
 | 106     | [dashdash.c](dashdash.c)             |
+| 113     | [share-cookies.c](share-cookies.c)   |
 | 138     | [url-set.c](url-set.c)               |
 | 139     | [url-set-parts.c](url-set-parts.c)   |
 | 140     | [url-get-parts.c](url-get-parts.c)   |
