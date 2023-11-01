@@ -5,6 +5,8 @@ with the first episode on November 16, 2023. It will most likely be
 done as a two part video series where each part will be up to or around
 two hours long.
 
+[Video info](https://daniel.haxx.se/blog/2023/11/01/mastering-libcurl/)
+
 ## Examples
 
 Materials related to the extensive video tutorial "mastering libcurl"
