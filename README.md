@@ -32,6 +32,7 @@ build warning free against a modern libcurl on a modern system.
 | 70      | [version.c](version.c)               |
 | 77      | [compress.c](compress.c)             |
 | 82      | [read-callback.c](read-callback.c)   |
+| 91      | [dns-servers.c](dns-servers.c)       |
 | 106     | [dashdash.c](dashdash.c)             |
 | 138     | [url-set.c](url-set.c)               |
 | 139     | [url-set-parts.c](url-set-parts.c)   |

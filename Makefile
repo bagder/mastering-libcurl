@@ -18,7 +18,8 @@ ALL =						\
  url-encode					\
  idn						\
  punycode \
- dashdash
+ dashdash \
+ dns-servers
 
 
 CFLAGS=-pedantic -Wall
