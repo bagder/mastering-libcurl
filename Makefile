@@ -19,7 +19,8 @@ ALL =						\
  idn						\
  punycode \
  dashdash \
- dns-servers
+ dns-servers \
+ resolve
 
 
 CFLAGS=-pedantic -Wall
