@@ -41,15 +41,21 @@ build warning free against a modern libcurl on a modern system.
 | 94      | [localport.c](localport.c)           |
 | 95      | [keepalive.c](keepalive.c)           |
 | 97      | [lowspeed.c](lowspeed.c)             |
-| 106     | [dashdash.c](dashdash.c)             |
+| 98      | maxspeed.c                           |
+| 99      | meter.c                              |
+| 100     | progress-cb.c                        |
+| 102     | auth.c                               |
+| 103     | netrc.c                              |
+| 105     | getinfo.c                            |
+| 108     | [dashdash.c](dashdash.c)             |
 | 113     | [share-cookies.c](share-cookies.c)   |
-| 138     | [url-set.c](url-set.c)               |
-| 139     | [url-set-parts.c](url-set-parts.c)   |
-| 140     | [url-get-parts.c](url-get-parts.c)   |
-| 141     | [redirect.c](redirect.c)             |
-| 142     | [url-encode.c](url-encode.c)         |
-| 143     | [idn.c](idn.c)                       |
-| 143     | [punycode.c](punycode.c)             |
+| 143     | [url-set.c](url-set.c)               |
+| 144     | [url-set-parts.c](url-set-parts.c)   |
+| 145     | [url-get-parts.c](url-get-parts.c)   |
+| 146     | [redirect.c](redirect.c)             |
+| 147     | [url-encode.c](url-encode.c)         |
+| 148     | [idn.c](idn.c)                       |
+| 148     | [punycode.c](punycode.c)             |
 
 ## License
 
