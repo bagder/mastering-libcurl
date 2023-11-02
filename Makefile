@@ -32,7 +32,8 @@ ALL =						\
  getinfo \
  404 \
  follow \
- postfields
+ postfields \
+ maxspeed
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c

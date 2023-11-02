@@ -41,7 +41,7 @@ build warning free against a modern libcurl on a modern system.
 | 94      | [localport.c](localport.c)           |
 | 95      | [keepalive.c](keepalive.c)           |
 | 97      | [lowspeed.c](lowspeed.c)             |
-| 98      | maxspeed.c                           |
+| 98      | [maxspeed.c](maxspeed.c)             |
 | 99      | meter.c                              |
 | 100     | progress-cb.c                        |
 | 102     | auth.c                               |
