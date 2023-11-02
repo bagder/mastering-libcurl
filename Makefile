@@ -28,7 +28,8 @@ ALL =						\
  url-set-parts					\
  version					\
  write-callback					\
- xfer-id
+ xfer-id \
+ getinfo
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c

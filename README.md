@@ -46,7 +46,7 @@ build warning free against a modern libcurl on a modern system.
 | 100     | progress-cb.c                        |
 | 102     | auth.c                               |
 | 103     | netrc.c                              |
-| 105     | getinfo.c                            |
+| 105     | [getinfo.c](getinfo.c)               |
 | 108     | [dashdash.c](dashdash.c)             |
 | 113     | [share-cookies.c](share-cookies.c)   |
 | 126     | [proxy.c](proxy.c)                   |
