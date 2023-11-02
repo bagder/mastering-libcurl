@@ -41,7 +41,8 @@ ALL =						\
  xfer-id \
  ifmodified \
  content-type \
- list-headers
+ list-headers \
+ range
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c

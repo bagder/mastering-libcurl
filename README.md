@@ -57,6 +57,7 @@ build warning free against a modern libcurl on a modern system.
 | 136     | [postfields.c](postfields.c)         |
 | 140     | [mod-headers.c](mod-headers.c)       |
 | 142     | [ifmodified.c](ifmodified.c)         |
+| 144     | [range.c](range.c)                   |
 | 151     | [content-type.c](content-type.c)     |
 | 152     | [list-headers.c](list-headers.c)     |
 | 155     | [url-set.c](url-set.c)               |
