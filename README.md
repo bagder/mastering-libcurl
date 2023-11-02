@@ -53,6 +53,7 @@ build warning free against a modern libcurl on a modern system.
 | 126     | [proxy-scheme.c](proxy-scheme.c)     |
 | 131     | [404.c](404.c)                       |
 | 132     | [follow.c](follow.c)                 |
+| 135     | [postfields.c](postfields.c)         |
 | 143     | [url-set.c](url-set.c)               |
 | 144     | [url-set-parts.c](url-set-parts.c)   |
 | 145     | [url-get-parts.c](url-get-parts.c)   |

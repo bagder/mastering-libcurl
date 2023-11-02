@@ -31,7 +31,8 @@ ALL =						\
  xfer-id \
  getinfo \
  404 \
- follow
+ follow \
+ postfields
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
