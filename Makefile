@@ -44,7 +44,8 @@ ALL =						\
  list-headers \
  range \
  put \
- altsvc
+ altsvc \
+ hsts
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c

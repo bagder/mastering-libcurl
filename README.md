@@ -60,6 +60,7 @@ build warning free against a modern libcurl on a modern system.
 | 144     | [range.c](range.c)                   |
 | 145     | [put.c](put.c)                       |
 | 149     | [altsvc.c](altsvc.c)                 |
+| 151     | [hsts.c](hsts.c)                     |
 | 151     | [content-type.c](content-type.c)     |
 | 152     | [list-headers.c](list-headers.c)     |
 | 155     | [url-set.c](url-set.c)               |
