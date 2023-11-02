@@ -43,7 +43,8 @@ ALL =						\
  content-type \
  list-headers \
  range \
- put
+ put \
+ altsvc
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
