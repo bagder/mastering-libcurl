@@ -58,6 +58,7 @@ build warning free against a modern libcurl on a modern system.
 | 140     | [mod-headers.c](mod-headers.c)       |
 | 142     | [ifmodified.c](ifmodified.c)         |
 | 151     | [content-type.c](content-type.c)     |
+| 152     | [list-headers.c](list-headers.c)     |
 | 155     | [url-set.c](url-set.c)               |
 | 156     | [url-set-parts.c](url-set-parts.c)   |
 | 157     | [url-get-parts.c](url-get-parts.c)   |

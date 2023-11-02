@@ -40,7 +40,8 @@ ALL =						\
  write-callback					\
  xfer-id \
  ifmodified \
- content-type
+ content-type \
+ list-headers
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
