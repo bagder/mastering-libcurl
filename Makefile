@@ -39,7 +39,8 @@ ALL =						\
  version					\
  write-callback					\
  xfer-id \
- ifmodified
+ ifmodified \
+ content-type
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
