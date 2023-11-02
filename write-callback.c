@@ -15,8 +15,8 @@ write_cb(void *contents, size_t size, size_t nmemb, void *userp)
   size_t realsize = size * nmemb;
   char *ptr = realloc(mem->ptr, mem->size + realsize + 1);
   if(!ptr) {
-	fprintf(stderr, "not enough memory\n");
-	return 0;
+    fprintf(stderr, "not enough memory\n");
+    return 0;
   }
 
   mem->ptr = ptr;
@@ -48,7 +48,7 @@ int main(void)
   res = curl_easy_perform(easy);
 
   if(res == CURLE_OK)
-	printf("%lu bytes retrieved\n", (unsigned long)chunk.size);
+    printf("%lu bytes retrieved\n", (unsigned long)chunk.size);
 
   curl_easy_cleanup(easy);
 
