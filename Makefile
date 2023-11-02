@@ -36,7 +36,8 @@ ALL =						\
  maxspeed \
  meter \
  progress-cb \
- auth
+ auth \
+ netrc
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
