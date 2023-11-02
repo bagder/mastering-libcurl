@@ -42,7 +42,8 @@ ALL =						\
  ifmodified \
  content-type \
  list-headers \
- range
+ range \
+ put
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
