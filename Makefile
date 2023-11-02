@@ -37,7 +37,8 @@ ALL =						\
  meter \
  progress-cb \
  auth \
- netrc
+ netrc \
+ mod-headers
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
