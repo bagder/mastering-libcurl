@@ -43,8 +43,8 @@ build warning free against a modern libcurl on a modern system.
 | 97      | [lowspeed.c](lowspeed.c)             |
 | 98      | [maxspeed.c](maxspeed.c)             |
 | 99      | [meter.c](meter.c)                   |
-| 100     | progress-cb.c                        |
-| 102     | auth.c                               |
+| 100     | [progress-cb.c](progress-cb.c)       |
+| 102     | [auth.c](auth.c)                     |
 | 103     | netrc.c                              |
 | 105     | [getinfo.c](getinfo.c)               |
 | 108     | [dashdash.c](dashdash.c)             |

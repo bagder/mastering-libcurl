@@ -34,7 +34,9 @@ ALL =						\
  follow \
  postfields \
  maxspeed \
- meter
+ meter \
+ progress-cb \
+ auth
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
