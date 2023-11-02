@@ -33,7 +33,8 @@ ALL =						\
  404 \
  follow \
  postfields \
- maxspeed
+ maxspeed \
+ meter
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
