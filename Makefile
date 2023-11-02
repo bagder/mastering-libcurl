@@ -29,7 +29,9 @@ ALL =						\
  version					\
  write-callback					\
  xfer-id \
- getinfo
+ getinfo \
+ 404 \
+ follow
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
