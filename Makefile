@@ -1,4 +1,6 @@
 ALL =						\
+ 404						\
+ auth						\
  compress					\
  connect-to					\
  dashdash					\
@@ -7,6 +9,8 @@ ALL =						\
  easy-init					\
  easy-perform					\
  easy-setopt					\
+ follow						\
+ getinfo					\
  global						\
  global-trace					\
  idn						\
@@ -14,7 +18,13 @@ ALL =						\
  keepalive					\
  localport					\
  lowspeed					\
+ maxspeed					\
+ meter						\
+ mod-headers					\
  multi						\
+ netrc						\
+ postfields					\
+ progress-cb					\
  proxy						\
  proxy-scheme					\
  punycode					\
@@ -29,16 +39,7 @@ ALL =						\
  version					\
  write-callback					\
  xfer-id \
- getinfo \
- 404 \
- follow \
- postfields \
- maxspeed \
- meter \
- progress-cb \
- auth \
- netrc \
- mod-headers
+ ifmodified
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
