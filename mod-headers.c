@@ -17,6 +17,7 @@ int main(void)
     /* provide one without content */
     list = curl_slist_append(list, "Empty;");
 
+    curl_easy_setopt(curl, CURLOPT_HTTPHEADER, list);
     curl_easy_setopt(curl, CURLOPT_URL, "https://curl.se/");
 
     res = curl_easy_perform(curl);
