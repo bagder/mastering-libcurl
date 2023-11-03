@@ -45,7 +45,8 @@ ALL =						\
  range \
  put \
  altsvc \
- hsts
+ hsts \
+ ipv6only
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
@@ -53,4 +54,4 @@ LDFLAGS = -c
 all: $(ALL)
 
 clean:
-	rm -f $(ALL)
+	rm -f $(ALL) *~ a.out

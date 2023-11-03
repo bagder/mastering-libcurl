@@ -32,16 +32,17 @@ build warning free against a modern libcurl on a modern system.
 | 69      | [global-trace.c](global-trace.c)     |
 | 70      | [xfer-id.c](xfer-id.c)               |
 | 71      | [version.c](version.c)               |
-| 77      | [write-callback.c](write-callback.c) |
-| 79      | [compress.c](compress.c)             |
-| 83      | [range.c](range.c)                   |
-| 84      | [read-callback.c](read-callback.c)   |
 | 91      | [resolve.c](resolve.c)               |
 | 92      | [connect-to.c](connect-to.c)         |
 | 93      | [dns-servers.c](dns-servers.c)       |
 | 94      | [interface.c](interface.c)           |
 | 95      | [localport.c](localport.c)           |
 | 96      | [keepalive.c](keepalive.c)           |
+|         | [ipv6only.c](ipv6only.c)             |
+| 77      | [write-callback.c](write-callback.c) |
+| 79      | [compress.c](compress.c)             |
+| 83      | [range.c](range.c)                   |
+| 84      | [read-callback.c](read-callback.c)   |
 | 98      | [lowspeed.c](lowspeed.c)             |
 | 99      | [maxspeed.c](maxspeed.c)             |
 | 100     | [meter.c](meter.c)                   |
