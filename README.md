@@ -34,6 +34,7 @@ build warning free against a modern libcurl on a modern system.
 | 71      | [version.c](version.c)               |
 | 77      | [write-callback.c](write-callback.c) |
 | 79      | [compress.c](compress.c)             |
+| 83      | [range.c](range.c)                   |
 | 84      | [read-callback.c](read-callback.c)   |
 | 91      | [resolve.c](resolve.c)               |
 | 92      | [connect-to.c](connect-to.c)         |
