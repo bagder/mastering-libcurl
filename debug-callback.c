@@ -28,7 +28,6 @@ int main()
     curl_easy_setopt(curl, CURLOPT_DEBUGFUNCTION, my_trace);
     curl_easy_setopt(curl, CURLOPT_DEBUGDATA, &config);
     curl_easy_setopt(curl, CURLOPT_VERBOSE, 1L);
-    curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
     curl_easy_setopt(curl, CURLOPT_URL, "https://example.com/");
     res = curl_easy_perform(curl);
 
