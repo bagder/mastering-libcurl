@@ -28,6 +28,7 @@ build warning free against a modern libcurl on a modern system.
 | 55      | [easy-perform.c](easy-perform.c)     |
 | 59      | [write-callback.c](write-callback.c) |
 | 65      | [multi.c](multi.c)                   |
+| 70      | [errorbuffer.c](errorbuffer.c)       |
 | 69      | [debug-callback.c](debug-callback.c) |
 | 70      | [global-trace.c](global-trace.c)     |
 | 71      | [xfer-id.c](xfer-id.c)               |

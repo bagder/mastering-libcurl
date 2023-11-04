@@ -46,7 +46,8 @@ ALL =						\
  put \
  altsvc \
  hsts \
- ipv6only
+ ipv6only \
+ errorbuffer
 
 CFLAGS=-pedantic -Wall
 LDFLAGS = -c
