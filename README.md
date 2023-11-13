@@ -1,13 +1,13 @@
 # mastering-libcurl
 
-The presentation itself will be live-streamed and recorded, starting
-with the first episode on November 16, 2023. It will most likely be
-done as a two part video series where each part will be up to or around
-two hours long.
+The presentation itself will be live-streamed and recorded, starting with the
+first episode on November 16, 2023. It will be done as a two part video series
+where each part will be up to or around two hours long. Part two streams on
+November 20.
 
 [Video info](https://daniel.haxx.se/blog/2023/11/01/mastering-libcurl/)
 
-## Examples
+## Source code
 
 Materials related to the extensive video tutorial "mastering libcurl"
 
@@ -18,7 +18,9 @@ from, mimic and copy and paste from.
 The examples present here might be modified slightly to make sure they
 build warning free against a modern libcurl on a modern system.
 
-## Index
+## Examples
+
+### Part one
 
 | Slide # | link                                 |
 |---------|--------------------------------------|
@@ -28,51 +30,56 @@ build warning free against a modern libcurl on a modern system.
 | 55      | [easy-perform.c](easy-perform.c)     |
 | 59      | [write-callback.c](write-callback.c) |
 | 65      | [multi.c](multi.c)                   |
-| 70      | [errorbuffer.c](errorbuffer.c)       |
-| 69      | [debug-callback.c](debug-callback.c) |
-| 70      | [global-trace.c](global-trace.c)     |
-| 71      | [xfer-id.c](xfer-id.c)               |
-| 72      | [version.c](version.c)               |
-| 77      | [resolve.c](resolve.c)               |
-| 78      | [connect-to.c](connect-to.c)         |
-| 79      | [dns-servers.c](dns-servers.c)       |
-| 80      | [interface.c](interface.c)           |
-| 81      | [localport.c](localport.c)           |
-| 82      | [keepalive.c](keepalive.c)           |
-| 83      | [ipv6only.c](ipv6only.c)             |
-| 84      | [auth.c](auth.c)                     |
-| 85      | [netrc.c](netrc.c)                   |
-| 89      | [write-callback.c](write-callback.c) |
-| 91      | [compress.c](compress.c)             |
-| 94      | [range.c](range.c)                   |
-| 96      | [read-callback.c](read-callback.c)   |
-| 104     | [lowspeed.c](lowspeed.c)             |
-| 105     | [maxspeed.c](maxspeed.c)             |
-| 106     | [meter.c](meter.c)                   |
-| 107     | [progress-cb.c](progress-cb.c)       |
-| 109     | [getinfo.c](getinfo.c)               |
-| 112     | [dashdash.c](dashdash.c)             |
-| 117     | [share-cookies.c](share-cookies.c)   |
-| 133     | [proxy.c](proxy.c)                   |
-| 133     | [proxy-scheme.c](proxy-scheme.c)     |
-| 138     | [404.c](404.c)                       |
-| 139     | [follow.c](follow.c)                 |
-| 142     | [postfields.c](postfields.c)         |
-| 146     | [mod-headers.c](mod-headers.c)       |
-| 147     | [ifmodified.c](ifmodified.c)         |
-| 148     | [range.c](range.c)                   |
-| 149     | [put.c](put.c)                       |
-| 153     | [altsvc.c](altsvc.c)                 |
-| 155     | [hsts.c](hsts.c)                     |
-| 160     | [content-type.c](content-type.c)     |
-| 161     | [list-headers.c](list-headers.c)     |
-| 166     | [url-set.c](url-set.c)               |
-| 167     | [url-set-parts.c](url-set-parts.c)   |
-| 168     | [url-get-parts.c](url-get-parts.c)   |
-| 169     | [redirect.c](redirect.c)             |
-| 170     | [url-encode.c](url-encode.c)         |
-| 171     | [idn.c](idn.c)                       |
-| 171     | [punycode.c](punycode.c)             |
+| 69      | [errorbuffer.c](errorbuffer.c)       |
+| 70      | [debug-callback.c](debug-callback.c) |
+| 71      | [global-trace.c](global-trace.c)     |
+| 72      | [xfer-id.c](xfer-id.c)               |
+| 73      | [version.c](version.c)               |
+| 78      | [resolve.c](resolve.c)               |
+| 79      | [connect-to.c](connect-to.c)         |
+| 80      | [dns-servers.c](dns-servers.c)       |
+| 81      | [interface.c](interface.c)           |
+| 82      | [localport.c](localport.c)           |
+| 83      | [keepalive.c](keepalive.c)           |
+| 84      | [ipv6only.c](ipv6only.c)             |
+| 85      | [auth.c](auth.c)                     |
+| 86      | [netrc.c](netrc.c)                   |
+
+### Part two
+
+| Slide # | link                                 |
+|---------|--------------------------------------|
+| 9       | [write-callback.c](write-callback.c) |
+| 11      | [compress.c](compress.c)             |
+| 14      | [range.c](range.c)                   |
+| 16      | [read-callback.c](read-callback.c)   |
+| 24      | [lowspeed.c](lowspeed.c)             |
+| 25      | [maxspeed.c](maxspeed.c)             |
+| 26      | [meter.c](meter.c)                   |
+| 27      | [progress-cb.c](progress-cb.c)       |
+| 29      | [getinfo.c](getinfo.c)               |
+| 32      | [dashdash.c](dashdash.c)             |
+| 37      | [share-cookies.c](share-cookies.c)   |
+| 53      | [proxy.c](proxy.c)                   |
+| 53      | [proxy-scheme.c](proxy-scheme.c)     |
+| 58      | [404.c](404.c)                       |
+| 59      | [follow.c](follow.c)                 |
+| 62      | [postfields.c](postfields.c)         |
+| 66      | [mod-headers.c](mod-headers.c)       |
+| 67      | [ifmodified.c](ifmodified.c)         |
+| 68      | [range.c](range.c)                   |
+| 69      | [put.c](put.c)                       |
+| 73      | [altsvc.c](altsvc.c)                 |
+| 75      | [hsts.c](hsts.c)                     |
+| 80      | [content-type.c](content-type.c)     |
+| 81      | [list-headers.c](list-headers.c)     |
+| 86      | [url-set.c](url-set.c)               |
+| 87      | [url-set-parts.c](url-set-parts.c)   |
+| 88      | [url-get-parts.c](url-get-parts.c)   |
+| 89      | [redirect.c](redirect.c)             |
+| 90      | [url-encode.c](url-encode.c)         |
+| 91      | [idn.c](idn.c)                       |
+| 91      | [punycode.c](punycode.c)             |
 
 ## License
 
