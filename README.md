@@ -22,6 +22,9 @@ build warning free against a modern libcurl on a modern system.
 
 ### Part one
 
+[Video](https://youtu.be/ZQXv5v9xocU?si=mkAXM9S3reAGHAzO)
+[slides](https://www.slideshare.net/bagder/mastering-libcurl-part-1)
+
 | Slide # | link                                 |
 |---------|--------------------------------------|
 | 50      | [global.c](global.c)                 |
